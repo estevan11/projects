@@ -33,8 +33,3 @@ for index, key in enumerate(distance.keys()):
 print('setosa confidence', s / (s + ve + v))
 print('versicolor confidence', ve / (s + ve + v))
 print('virginica confidence', v / (s + ve + v))
-
-# sorry i finished this on co lab i will paste code above 
-
-
-
